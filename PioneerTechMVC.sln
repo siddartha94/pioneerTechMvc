@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PioneerTechMVC", "PioneerTechMVC\PioneerTechMVC.csproj", "{61F52E9B-5E1C-4647-A2AD-2AB7D7185CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PioneerTechMVC.Tests", "PioneerTechMVC.Tests\PioneerTechMVC.Tests.csproj", "{6ACA1E1C-C2A5-4704-AF3F-6312CDAE078F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F52E9B-5E1C-4647-A2AD-2AB7D7185CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F52E9B-5E1C-4647-A2AD-2AB7D7185CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F52E9B-5E1C-4647-A2AD-2AB7D7185CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F52E9B-5E1C-4647-A2AD-2AB7D7185CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACA1E1C-C2A5-4704-AF3F-6312CDAE078F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACA1E1C-C2A5-4704-AF3F-6312CDAE078F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACA1E1C-C2A5-4704-AF3F-6312CDAE078F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACA1E1C-C2A5-4704-AF3F-6312CDAE078F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
